@@ -1,0 +1,35 @@
+[33mcommit fd1e8b925526bcea3a906a71715435a7cb4d1e20[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon Feb 21 13:00:07 2022 +0700
+
+    add redirect to index.html
+
+[33mcommit 146629d6c4d06bea16df223da63b979fc267a0dc[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon Feb 21 12:55:48 2022 +0700
+
+    del readme file
+
+[33mcommit 2dc1a7a2c0130edb49e1c57fe091b237c8691cab[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon Feb 21 12:40:49 2022 +0700
+
+    edit readme file
+
+[33mcommit 36eaa4bc419682b30c58d31cfd36bab2bc281414[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon Feb 21 12:40:07 2022 +0700
+
+    add readme and fix index.html
+
+[33mcommit 4016430627288652f376911a7410a109355bb179[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon Feb 21 12:27:58 2022 +0700
+
+    try to rename file to index.html
+
+[33mcommit a55f5aab5bbb1f7ce717cc10da5dd952fca41012[m
+Author: tumlungaen <mr.kittinan@gmail.com>
+Date:   Mon Feb 21 12:24:35 2022 +0700
+
+    first commit
